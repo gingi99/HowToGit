@@ -1,0 +1,2 @@
+# HowToGit
+For git beginner
